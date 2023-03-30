@@ -62,7 +62,7 @@ zero.addEventListener('click', () => {
   appendInput('0');
 });
 
-equals.addEventListener('click', function () {
+equels.addEventListener('click', function () {
     const result = calculate();
     outputField.value =result;
 });
