@@ -1,0 +1,36 @@
+h1 {
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80px;
+    text-align: center;
+}
+
+#cal {
+
+background-color: #865DFF;
+border: solid 10px;
+margin: auto;
+height: 260px;
+width: 300px;
+
+}
+
+body {
+    background-color:#191825;
+}
+button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #52376b81;
+    border: solid;
+    border-radius: 10px;
+  
+
+  }
+  button:hover {background-color: #7c6e86bd}
